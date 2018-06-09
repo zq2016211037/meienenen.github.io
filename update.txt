@@ -1,0 +1,26 @@
+git 命令行
+git init 初始化仓库
+git clone https://github.com/...  克隆仓库
+
+
+状态与暂存
+
+目录下的文件状态
+
+跟踪：
+未跟踪：
+
+查看状态：git status
+
+暂存到暂存区（本地）：此时文件状态为跟踪
+git add newFile
+
+如果修改文件：文件变为未跟踪
+
+
+git commit -m"my first commit" 提交本地仓库
+
+git remote 推送到远程仓库
+
+git push 完成
+
