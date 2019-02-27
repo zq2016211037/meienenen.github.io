@@ -2,7 +2,7 @@
   "name": "coolblog",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "http://meienenen.github.io/myapp",
   "dependencies": {
     "antd": "^3.11.6",
     "axios": "^0.18.0",
